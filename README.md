@@ -1,4 +1,4 @@
-# Hi there, I'm Lyrih Kaesa 👋
+# Hi there, I'm Kaesa Lyrih 👋
 
 [<img src="https://komarev.com/ghpvc/?username=lyrihkaesa&color=131F3C&style=for-the-badge" alt="Profile Views" align="right" />](https://github.com/lyrihkaesa)
 
@@ -16,10 +16,10 @@ I'm a developer passionate about creating efficient and user-friendly solutions 
   Flutter, Dart  
 
 - **Frontend Development**:  
-  React.js, Next.js (using JavaScript or TypeScript)  
+  Tailwindcss, React.js, Next.js (using JavaScript or TypeScript)  
 
 - **Other Technologies**:  
-  Figma, Docker, PlantUML  
+  Figma, Docker, PlantUML, Gitlab  
 
 - **Programming Languages**:  
   Java, PHP, Dart, JavaScript, TypeScript  
